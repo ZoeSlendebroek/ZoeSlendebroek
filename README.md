@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ZoeSlendebroek!
 - 👀 I am a current undergraduate interested in Bio- & Computer Science!
-- 🌱 I’m currently learning about machine learning and machine ethics!
 
 
 <!---
