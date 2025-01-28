@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZoeSlendebroek!
-- 👀 I am a current undergraduate interested in Bio- & Computer Science!
+- 👀 I am a current Master's student interested in Biotech, Computer Science & responsible AI. 
 
 
 <!---
