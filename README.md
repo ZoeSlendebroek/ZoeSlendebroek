@@ -1,5 +1,10 @@
-- 👋 Hi, I’m @ZoeSlendebroek!
-- 👀 I am a current Master's student interested in Biotech, Computer Science & responsible AI. 
+- 🚀 Hi, I’m Zoe!
+  
+- 🧬 CS Master’s student at UPenn + Biosciences at UCL
+
+- 💼 Visit my [LinkedIn](https://www.linkedin.com/in/zoe-slendebroek-739409200/?originalSubdomain=uk)
+
+- 📬 zoefs@seas.upenn.edu
 
 
 <!---
